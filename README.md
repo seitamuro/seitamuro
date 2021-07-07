@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @seitamuro
 - 👀 I’m interested in Rust, Vim, pattern recoginition and mathematics.
 - 🌱 I’m currently learning Rust and Algorithms.
+- My non-binding target is that commit over one per day.
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me ... --->
 
