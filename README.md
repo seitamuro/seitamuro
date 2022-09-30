@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @seitamuro
-- 👀 I’m interested in Rust, Vim, pattern recoginition and mathematics.
-- 🌱 I’m currently learning Rust and Algorithms.
-- My non-binding target is that commit over one per day.
-<!--- 💞️ I’m looking to collaborate on ... --->
-<!--- 📫 How to reach me ... --->
+制作物
+
+ClipRoach
+
+コピペを強化するChrome拡張機能です。Chrome Storeで公開中！
+GitHub: https://github.com/shimizuyuta/hackathon_vol4_0618
+ストアページ: https://chrome.google.com/webstore/detail/cliproach/icbaojdekddkoigpidooabchlgffedmf?hl=ja
+
+S'more
+
+Twitterでいいねした記事を管理するアプリです。
+GitHub: https://github.com/Campers0709/Smore
+公開ページ: https://smore.vercel.app/
 
 <!---
 seitamuro/seitamuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
